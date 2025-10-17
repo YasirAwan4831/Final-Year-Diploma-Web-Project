@@ -1,6 +1,6 @@
 # Final-Year-Diploma-Web-Project
 
-A **modern, fully responsive business website** developed as a Final Year Diploma (DIT) project.  
+A **modern, fully responsive business website** developed as a Final Year IT] Diploma project.  
 This project represents a **complete front-end business solution** built with **HTML, CSS, and JavaScript**, featuring animated sections, interactive UI effects and a clean layout suitable for any professional company or service-based brand.
 
 🌐 **Key Features**
