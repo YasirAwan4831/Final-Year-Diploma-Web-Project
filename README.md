@@ -190,7 +190,7 @@ This project was developed using a set of modern web technologies that ensure re
 
 ---
 
-### ⚙️ Development Tools
+###  Development Tools
 - **Visual Studio Code (VS Code)**: The main editor used for writing and managing code.
 - **Live Server Extension**: Allows real-time page reloading during development.
 - **Git & GitHub**: For version control, collaboration and online repository management.
@@ -203,7 +203,7 @@ This project was developed using a set of modern web technologies that ensure re
 - **ScrollReveal.js**: A lightweight JavaScript library used to apply reveal animations when scrolling.
 
 ---
-### 👥 Team & Supervision
+###  Team & Supervision
 
 - **Project Title:** Final-Year-Diploma-Web-Project  
 - **Team Members:** Muhammad Yasir, M. Alyan Butt, Rehan Afthr  
@@ -278,7 +278,7 @@ To update your content dynamically, open the **data** folder and edit:
 
 Changes will automatically appear on the site when refreshed.
 
-🖼️**Screenshot**
+**Screenshot**
 
 📸screenshot of our project running locally in the browser
 
@@ -298,7 +298,7 @@ To help users, teachers, or developers easily understand how this project works,
 
 You can watch the **complete step-by-step video series** showing how this project was designed, coded, and implemented.
 
-🎬 **YouTube Playlist:**  
+ **YouTube Playlist:**  
 👉 [Final-Year-Diploma-Web-Project — Complete Build Tutorial](https://youtube.com/playlist?list=PLa08Z0FbToU3XPZZgcS_6dEO7TAcUdQ3R&si=xYh4WXldKK0Soe9S)
 
 > 💡 The playlist includes:
@@ -329,7 +329,7 @@ Once deployed, this link will allow users to directly preview the full project o
 
 ---
 
-### 💼 4. Developer Profile (Asani.pk)
+###  4. Developer Profile (Asani.pk)
 
 Visit my verified developer profile to view more of my projects and contributions.
 
@@ -338,7 +338,7 @@ Visit my verified developer profile to view more of my projects and contribution
 
 ---
 
-### 🖼️ Screenshot Required
+###  Screenshot Required
 
 > 📸 **screenshot or thumbnail of the YouTube playlist here**
 ![alt text](image-2.png)
@@ -403,7 +403,7 @@ If you liked this project, please consider:
 
 **📍 Project:** Final-Year-Diploma-Web-Project  
 **📅 Year:** 2025  
-**📘 Department:** Diploma in Information Technology (DIT)  
+**📘 Department:** Department of Information Technology (IT)  
 **🏫 College:** Red C College  
 **📂 Repository:** [GitHub Repository →](https://github.com/YasirAwan4831/Final-Year-Diploma-Web-Project)  
 **🧾 License:** [View Full License File →](./LICENSE)
