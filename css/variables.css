@@ -1,0 +1,63 @@
+/*
+   VARIABLES.CSS
+   Global Design Tokens (Colors, Fonts and Spacing)
+*/
+
+:root {
+  /*  Primary Brand Colors */
+  --color-primary: #0d47a1;       
+  /* Deep Blue */
+  --color-secondary: #1565c0;     
+  /* Medium Blue */
+  --color-accent: #900C3F;        
+  /* Accent (e.g. Footer Right, Buttons) */
+
+  /*  Neutral & Gray Shades */
+  --color-white: #ffffff;
+  --color-light: #f4f7f8;
+  --color-dark: #222;
+  --color-gray-100: #f1f1f1;
+  --color-gray-300: #d1d1d1;
+  --color-gray-500: #777;
+  --color-gray-700: #555;
+  --color-gray-900: #333;
+
+  /*  Gradients (For Buttons / Backgrounds) */
+  --gradient-primary: linear-gradient(90deg, #0d47a1, #1565c0);
+  --gradient-accent: linear-gradient(90deg, #900C3F, #C70039);
+
+  /*  Shadows */
+  --shadow-small: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --shadow-large: 0 6px 20px rgba(0, 0, 0, 0.2);
+
+  /*  Transitions */
+  --transition-fast: all 0.2s ease;
+  --transition-normal: all 0.3s ease;
+  --transition-slow: all 0.5s ease;
+
+  /*  Spacing & Layout */
+  --padding-section: 100px 20px;
+  --radius-small: 5px;
+  --radius-medium: 10px;
+  --radius-large: 20px;
+
+  /*  Typography */
+  --font-main: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  --font-size-base: 16px;
+  --font-size-small: 0.9rem;
+  --font-size-heading: 2.5rem;
+  --font-size-subheading: 1.5rem;
+
+  /*  Font Weights */
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+
+  /* 📱 Responsive Breakpoints */
+  --breakpoint-mobile: 576px;
+  --breakpoint-tablet: 768px;
+  --breakpoint-laptop: 992px;
+  --breakpoint-desktop: 1200px;
+}
