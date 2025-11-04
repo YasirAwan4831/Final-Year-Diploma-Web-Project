@@ -1,0 +1,130 @@
+/* ----------
+   Responsive CSS -  css file no 3 Responsive.css 
+   ---------- */
+
+/*  Tablets (max-width: 992px)  */
+@media (max-width: 992px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  header nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+    line-height: 1.4;
+  }
+
+  .hero-content p {
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .section {
+    padding: 60px 30px;
+  }
+
+  .portfolio-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+  }
+
+  .team-card {
+    width: 80%;
+    margin: 0 auto 20px auto;
+  }
+}
+
+/*  Mobile Devices (max-width: 768px)  */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  header nav {
+    flex-direction: column;
+  }
+
+  header nav ul {
+    flex-direction: column;
+    padding: 0;
+    margin: 10px 0;
+    gap: 8px;
+  }
+
+  .hero-content h1 {
+    font-size: 1.7rem;
+  }
+
+  .hero-content p {
+    font-size: 1rem;
+    padding: 0 15px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 0.9rem;
+  }
+
+  .portfolio-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .team-card {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+
+  footer {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+
+  footer p {
+    font-size: 0.9rem;
+  }
+}
+
+/*  Extra Small (max-width: 480px)  */
+@media (max-width: 480px) {
+  header nav ul li a {
+    font-size: 0.9rem;
+    padding: 8px;
+  }
+
+  .hero-content h1 {
+    font-size: 1.3rem;
+  }
+
+  .hero-content p {
+    font-size: 0.9rem;
+  }
+
+  section {
+    padding: 40px 15px;
+  }
+
+  .btn {
+    padding: 8px 18px;
+    font-size: 0.85rem;
+  }
+
+  .team-card img {
+    width: 100%;
+    height: auto;
+  }
+
+  footer p {
+    font-size: 0.8rem;
+  }
+}
