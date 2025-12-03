@@ -12,7 +12,7 @@ It showcases the complete skills learned during the diploma — including **HTML
 The **Final Year Diploma Web Development Project** is a fully functional, user-friendly, and visually engaging website developed as a business prototype for an online digital agency. It showcases modern design principles, interactive elements and a structured layout aimed at providing digital services in a professional manner.
 
 **The project includes multiple sections such as:**
-- **Home Section** with parallax scrolling  
+- **Home Section** with parallax scrolling   
 - **Services Section** displaying provided offerings  
 - **Portfolio Section** showcasing previous works or projects  
 - **Team Section** introducing developers and collaborators  
